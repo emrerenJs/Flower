@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1500" width="500" height="500">
+	<title>Yeni Proje</title>
+	<style>
+		.s0 { fill: #ffd62f } 
+		.s1 { fill: #91fe4f } 
+		.s2 { fill: #f9ff22 } 
+		.s3 { fill: #ff722f } 
+	</style>
+	<path id="Şekil 1" class="s0" d="m597.8 918.1h-250.3l-125.2-216.7 125.2-216.8h250.3l125.1 216.8z"/>
+	<path id="Şekil 1 copy" class="s1" d="m1213.7 693.5h-386.5l-193.3-334.7 193.3-334.8h386.5l193.3 334.8z"/>
+	<path id="Şekil 1 copy 2" class="s2" d="m1153.8 1329.5h-347.2l-173.6-300.7 173.6-300.7h347.2l173.7 300.7z"/>
+	<path id="Şekil 1 copy 3" class="s3" d="m558.2 1441.6h-270.1l-135.1-234 135.1-234h270.1l135.1 234z"/>
+</svg>
